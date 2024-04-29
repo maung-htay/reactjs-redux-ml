@@ -1,0 +1,39 @@
+{
+  "setting": "Setting",
+  "language": "Language",
+  "table_toggle_view": "View",
+  "home_page": "Home",
+  "ticket_page": "Ticket",
+  "change_language": "Change Language",
+
+  "uploaded_file": "Upload File",
+  "uploaded_file_label": "Uploaded File",
+  "choose_file": "Choose File",
+  "file_columns": "File Columns",
+  "file_inputs": "File Inputs",
+  "output_columns": "Output Columns",
+  "configuration_data": "Configuration Data",
+
+  "select_library": "Select Library",
+  "select_model": "Select Model",
+  "model_result": "Model Result",
+  "check_real_data_label": "Check Real Data",
+  "result_label": "Result",
+
+  "select_trainned_model": "Select Trainned Model",
+  "accuracy_label": "Accuracy",
+  "used_columns_data_label": "Used Columns Data",
+
+  "no_result_label": "No Result",
+  "rows_per_page_label": "Rows per page",
+  "toogle_columns_label": "Toogle Columns",
+
+  "submit_button": "Submit",
+  "create_model_button": "Create Model",
+  "save_model_button": "Save Model",
+  "check_button": "Check",
+  "delete_button": "Delete",
+  "load_data_button": "Load Data",
+
+  "chart_type": "Chart Type"
+}

@@ -1,0 +1,39 @@
+{
+  "setting": "設定",
+  "language": "言語",
+  "table_toggle_view": "ビュー",
+  "home_page": "ホーム",
+  "ticket_page": "チケット",
+  "change_language": "言語を変更",
+
+  "uploaded_file": "アップロードファイル",
+  "uploaded_file_label": "アップロードしたファイル",
+  "choose_file": "ファイルを選択",
+  "file_columns": "ファイルの列",
+  "file_inputs": "ファイルの入力",
+  "output_columns": "出力列",
+  "configuration_data": "設定データ",
+
+  "select_library": "ライブラリを選択",
+  "select_model": "モデルを選択",
+  "model_result": "モデル結果",
+  "check_real_data_label": "実データを確認",
+  "result_label": "結果",
+
+  "select_trainned_model": "トレーニング済みモデルを選択",
+  "accuracy_label": "精度",
+  "used_columns_data_label": "使用された列データ",
+
+  "no_result_label": "結果なし",
+  "rows_per_page_label": "ページあたりの行数",
+  "toogle_columns_label": "列の切り替え",
+
+  "submit_button": "送信",
+  "create_model_button": "モデルを作成",
+  "save_model_button": "モデルを保存",
+  "check_button": "確認",
+  "delete_button": "削除",
+  "load_data_button": "データをロード",
+
+  "chart_type": "チャートタイプ"
+}
